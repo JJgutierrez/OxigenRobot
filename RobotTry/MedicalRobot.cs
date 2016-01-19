@@ -30,9 +30,11 @@ namespace RobotTry
         }
         public void PrintMedR()
         {
+            Console.Clear();
+            Console.WriteLine("-----------------------------");
             Console.WriteLine("The Medical Sensors are : " + MedicalSensors());
             Console.WriteLine("The Value of the Medical Robot is : " + RobotValue()+ "units ");
-            Console.WriteLine("the Intelligence of this Robot is level :"+ RobotIntelligence());
+            Console.WriteLine("the Intelligence of this Robot is level : "+ RobotIntelligence());
 
         }
 

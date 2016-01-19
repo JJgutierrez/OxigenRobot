@@ -30,6 +30,8 @@ namespace RobotTry
         }
         public void PrintIR()
         {
+            Console.Clear();
+            Console.WriteLine("-------------------------------");
             Console.WriteLine("The industrial Robot arms : " + Arms());
             Console.WriteLine("The speed of this robot is : " + BasicMovement());
             Console.WriteLine("The Production of this Robot is : "+ Production());

@@ -35,10 +35,12 @@ namespace RobotTry
 
         public void PrintMR()
         {
-            Console.WriteLine("Your Military robot Has:");
+            Console.Clear();
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("Your Military robot Has :");
             Console.WriteLine("Total of Sensors : " + EnemySensors());
-            Console.WriteLine("The Speed is "+ SpeedRobot() +" units" );
-            Console.WriteLine("Smart level is :" + Smart());
+            Console.WriteLine("The Speed is : "+ SpeedRobot() +" units" );
+            Console.WriteLine("Smart level is : " + Smart());
 
         }
     }
