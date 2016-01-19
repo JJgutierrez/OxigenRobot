@@ -1,0 +1,6 @@
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\bin\Debug\RobotTry.exe.config
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\bin\Debug\RobotTry.exe
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\bin\Debug\RobotTry.pdb
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\obj\Debug\RobotTry.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\obj\Debug\RobotTry.exe
+C:\Users\Juan\Documents\class\carbontest\RobotTry\RobotTry\obj\Debug\RobotTry.pdb
